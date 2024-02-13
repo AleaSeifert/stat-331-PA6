@@ -1,5 +1,6 @@
 ---
 title: "Practice Activity 6"
+author: "Robelyn Felices, Libby Brill, Franchesca Garcia, Alea Seifert"
 format: html
 embed-resources: true
 editor: visual
