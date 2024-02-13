@@ -1,5 +1,6 @@
 ---
 title: "Practice Activity 6"
+author: "Robelyn, Libby, Franchesca, Alea"
 format: html
 embed-resources: true
 editor: visual
