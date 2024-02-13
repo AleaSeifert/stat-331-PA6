@@ -3,6 +3,7 @@ title: "Practice Activity 6"
 format: html
 embed-resources: true
 editor: visual
+author: "Libby Brill, Alea Seifert, Roblelyn Felices, Franchesca Garcia"
 ---
 
 ## Quarto
